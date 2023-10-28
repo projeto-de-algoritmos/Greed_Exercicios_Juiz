@@ -16,6 +16,7 @@ Exercícios Resolvidos:
 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)  |  Hard | Leetcode |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)  |  Medium | Leetcode |
 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)  |  Medium | Leetcode |
+| [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)  |  Medium | Leetcode |
 
 ## Screenshots
 
@@ -33,6 +34,10 @@ Exercícios Resolvidos:
 
 ![Exercício 3 descrição](image-4.png)
 ![Exercício 3 resultado](image-5.png)
+
+### 646. Maximum Length of Pair Chain
+![Exercício 4 descrição](longestChain.png)
+![Exercício 4 resultado](longestChainSolution.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
