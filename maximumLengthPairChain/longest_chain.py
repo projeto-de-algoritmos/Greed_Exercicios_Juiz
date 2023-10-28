@@ -19,15 +19,15 @@ class Solution:
         return comprimento
 
 # Casos de teste
-test_cases = {
-    "Example 1": [[1,2],[2,3],[3,4]],
-    "Example 2": [[1,2],[7,8],[4,5]]
+casos_teste = {
+    "Exemplo 1": [[1,2],[2,3],[3,4]],
+    "Exemplo 2": [[1,2],[7,8],[4,5]]
 }
 
-solver = Solution()
+res = Solution()
 
-for key, value in test_cases.items():
+for key, value in casos_teste.items():
     print(key + ":")
     print("Input:", value)
-    print("Output:", solver.findLongestChain(value))
+    print("Output:", res.findLongestChain(value))
     print("-----------")
