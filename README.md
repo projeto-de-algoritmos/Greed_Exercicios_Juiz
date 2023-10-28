@@ -15,6 +15,7 @@ Exercícios Resolvidos:
 | -- | -- | -- |
 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)  |  Hard | Leetcode |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)  |  Medium | Leetcode |
+| [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)  |  Medium | Leetcode |
 
 ## Screenshots
 
@@ -27,6 +28,11 @@ Exercícios Resolvidos:
 
 ![Exercício 2 descrição](image-3.png)
 ![Exercício 2 resultado](image-2.png)
+
+### 881. Boats to Save People
+
+![Exercício 3 descrição](image-4.png)
+![Exercício 3 resultado](image-5.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
