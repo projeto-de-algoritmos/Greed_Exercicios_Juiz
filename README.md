@@ -9,6 +9,8 @@
 ## Sobre 
 Resolução de exercicios de Juízes online que envolvam Algoritmos Ambiciosos. Cada pasta dentro deste repositório tera a solução para um dos exercícios.
 
+Mais detalhes do código foram explicados nesse [vídeo](greedy_video.mp4), que é facilmente encontrado em nosso repositório.
+
 Exercícios Resolvidos:
 
 |Nome | Dificuldade | Plataforma |
